@@ -49,7 +49,7 @@ As Shown in DNS-Configuration.png
 
 Configure the port Gig0/0/0 for internal network (192.168.1.1-255)
 
-Router>enable
+	Router>enable
 	Router#
 	Router#configure terminal
 	Enter configuration commands, one per line.  End with CNTL/Z.
@@ -57,13 +57,13 @@ Router>enable
 	Router(config-if)#ip address 192.168.1.1 255.255.255.0
 	Router(config-if)#
 
-Configure the port Gig0/0/0 for internal network (192.168.2.1-255)
+Configure the port Gig0/0/1 for External network (192.168.2.1-255)
 
 	Router>enable
 	Router#
 	Router#configure terminal
 	Enter configuration commands, one per line.  End with CNTL/Z.
-	Router(config)#interface GigabitEthernet0/0/0
+	Router(config)#interface GigabitEthernet0/0/1
 	Router(config-if)#ip address 192.168.2.1 255.255.255.0
 	Router(config-if)#
 

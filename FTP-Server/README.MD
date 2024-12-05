@@ -36,18 +36,16 @@ Here you go! PCs are configured according to provided ip address.
 
 Now, Click on any PC Client to connect to the FTP Service.
 
-`
-PC3 > Desktop > Command Prompt >>
-C:\> FTP 192.168.1.2 (ftp server ip address)
-Trying to connect...192.168.1.2
-Connected to 192.168.1.2
-220- Welcome to PT Ftp server
-Username: cisco (Configured username)
-331- Username ok, need password
-Password: 
-230- Logged in
-(passive mode On)
-ftp>quit
-C:\> 
-`
+`PC3 > Desktop > Command Prompt >>`
+`C:\> FTP 192.168.1.2 (ftp server ip address)`
+`Trying to connect...192.168.1.2`
+`Connected to 192.168.1.2`
+`220- Welcome to PT Ftp server`
+`Username: cisco (Configured username)`
+`331- Username ok, need password`
+`Password: `
+`230- Logged in`
+`(passive mode On)`
+`ftp>quit`
+`C:\> `
 Use Question mark (?), for Help in Command Prompt for FTP Server here......

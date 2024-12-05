@@ -1,11 +1,11 @@
-##Required Devices
+Required Devices
 
 1. Required number of PCs -> 6 (In this case)
 	- You can use maximum of 254 Computers for a class C Network, Class B (2^16-2 computers), Class C (2^24-2 Computers). 
 2. Central Networking Device -> Switch (In this Case)
 3. DHCP Server
 
-##Steps to Configure DHCP Server
+Steps to Configure DHCP Server
 
 1. Connect all PC's with switch with Copper-Straight through cable.
 2. Connect switch with server using Copper-Straight through cable.

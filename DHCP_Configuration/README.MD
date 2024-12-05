@@ -19,4 +19,4 @@ Steps to Configure DHCP Server
 	- You can also give DNS, TFTP and WLC Address here.
 7. Now Select IP Configuration on each PC by DHCP instead of Static.
 
-Here you go! PCs are configured according to provided ip address.
+Here you go! PCs are configured according to provided ip addresses.

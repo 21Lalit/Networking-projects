@@ -30,7 +30,7 @@ This project demonstrates a MAC Spoofing attack, where an attacker alters their 
 ---
 
 ## 📸 MAC Spoofing Network Diagram
-![MAC Spoofing Network Diagram](https://github.com/21Lalit/Networking-projects/blob/main/Mac-Spoof.png)
+![MAC Spoofing Network Diagram](https://github.com/21Lalit/Networking-projects/blob/main/Mac-Spoofing/Mac-Spoof.png)
 
 ---
 

@@ -30,7 +30,7 @@ The network consists of:
 - A **switch** connected to multiple **PCs** and a **laptop**.
 - Configured security access using Console, VTY, and Enable mode passwords.
 
-![Network Topology](https://github.com/21Lalit/Networking-projects/blob/main/Access-Mode-Security.png)
+![Network Topology](https://github.com/21Lalit/Networking-projects/blob/main/Access-Mode-Security/Access-Mode-Security.png)
 
 ---
 
@@ -64,12 +64,9 @@ username Lalit secret 5 Password@123
 
 ---
 
-## 📸 Project Screenshots
+## 📸 Project Screenshots and Privileged Mode Security
 ### Console & VTY Configuration
 ![Console & VTY](https://github.com/21Lalit/Networking-projects/blob/main/Access-Mode-Security/Running-Configurations.png)
-
-### Privileged Mode Security
-![Privilege Mode Security](https://github.com/21Lalit/Networking-projects/blob/main/Access-Mode-Security/Running-Configurations.png)
 
 ---
 
@@ -95,7 +92,5 @@ username Lalit secret 5 Password@123
 This project demonstrates fundamental network security measures for securing switch access. By configuring console, VTY, and privilege mode passwords, unauthorized access can be prevented, ensuring a robust network infrastructure.
 
 🚀 **Stay Secure & Happy Networking!** 🔥
-
+> _ "Network security is a tapestry woven not just with firewalls and encryption, but with the threads of vigilance, adaptability, and collective resolve—each layer a testament to the art of defending what connects us."
 ---
-
-📌 **Author:** [Lalit](https://github.com/21Lalit)

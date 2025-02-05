@@ -12,6 +12,32 @@ The following configurations have been implemented:
    - **Protect**: The port drops packets from unauthorized MAC addresses but does not log violations.
    - **Restrict**: The port drops packets and logs security violations.
 3. **MAC Address Table**: Displays static and dynamic MAC addresses assigned to ports.
+##Topology
+Here’s the network topology used in this project:
+
+![Network Topology](https://github.com/21Lalit/Networking-projects/blob/main/Port-Security-Configuration/External-non-user-01.png)  
+
+### Legitimate and External Users  
+- **Legitimate Users:**  
+  ![Legitimate User 1](https://github.com/21Lalit/Networking-projects/blob/main/Port-Security-Configuration/Legitimate-User-01.png)  
+  ![Legitimate User 2](https://github.com/21Lalit/Networking-projects/blob/main/Port-Security-Configuration/Legitimate-User-02.png)  
+
+- **External Unauthorized User:**  
+  ![External User](https://github.com/21Lalit/Networking-projects/blob/main/Port-Security-Configuration/External-non-user-01.png)  
+
+## Port Security Configuration Output  
+### MAC Address Table  
+![MAC Address Table](https://github.com/21Lalit/Networking-projects/blob/main/Port-Security-Configuration/Mac-Address-Table-01.png)  
+
+### Port Security Verification  
+- **Configuration 1:**  
+  ![Port Security Config 1](https://github.com/21Lalit/Networking-projects/blob/main/Port-Security-Configuration/Mac-and-Port-Security-Running-Conf-01.png)  
+
+- **Configuration 2:**  
+  ![Port Security Config 2](https://github.com/21Lalit/Networking-projects/blob/main/Port-Security-Configuration/Mac-and-Port-Security-Running-Conf-02.png)  
+
+- **Configuration 3:**  
+  ![Port Security Config 3](https://github.com/21Lalit/Networking-projects/blob/main/Port-Security-Configuration/Mac-and-Port-Security-Running-Conf-03.png)  
 
 ## 🔍 Port Security Status
 The table below summarizes the port security configurations applied:
@@ -63,5 +89,5 @@ Switch# show mac-address-table
    Switch# write memory
    ```
 
-💡 > _ "Hackers don’t break in, they log in. Secure your credentials."
+> "Hackers don’t break in, they log in. Secure your credentials."
 

@@ -16,6 +16,8 @@ This guide walks you through configuring an Email Server and Email Client commun
 5. Under **User Setup**, create users:
 
    * `user1`, `user2`, `user3` with password `12312345`
+  
+![Email-Server-Configuration](https://github.com/21Lalit/Networking-projects/blob/main/Email-Configuration/Email-Server-Configuration.png)
 
 ---
 
@@ -33,6 +35,8 @@ This guide walks you through configuring an Email Server and Email Client commun
    * **Outgoing Mail Server**: `192.168.1.4`
    * **Username**: `user2`
    * **Password**: `12312345`
+  
+![Email-Client-Account-Setup](https://github.com/21Lalit/Networking-projects/blob/main/Email-Configuration/Email-Client-Account-Setup.png)
 
 4. Click **Save**
 
@@ -54,6 +58,8 @@ This guide walks you through configuring an Email Server and Email Client commun
 * **Body**: `Hi there`
 
 Once sent, PC3 (configured for user2) will receive the message successfully from the POP3 server (`192.168.1.4`).
+
+![Mail-Box](https://github.com/21Lalit/Networking-projects/blob/main/Email-Configuration/Mail-Box.png)
 
 > ✅ **Note**: Ensure proper IP connectivity between server and PC (use `ping` to verify).
 

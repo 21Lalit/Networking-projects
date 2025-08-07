@@ -12,7 +12,7 @@ This project demonstrates the implementation of **AAA (Authentication, Authoriza
 
 ## 🖧 Network Topology
 
-![AAA RADIUS Network](https://github.com/21Lalit/Networking-projects/blob/main/AAA-Radius/Topology.png)
+![AAA RADIUS Network](https://github.com/21Lalit/Networking-projects/blob/main/AAA-Radius-Server/Topology.png)
 
 ### Components:
 
@@ -42,7 +42,7 @@ All devices are connected via a switch.
 * **Username**: `lalit`
 * **Password**: `12312345`
 
-![RADIUS Configuration Screenshot](https://github.com/21Lalit/Networking-projects/blob/main/AAA-Radius/Radius-Server.png)
+![RADIUS Configuration Screenshot](https://github.com/21Lalit/Networking-projects/blob/main/AAA-Radius-Server/Radius-Server.png)
 
 ---
 
@@ -111,7 +111,7 @@ transport input telnet
   * **Password**: 12312345
   * Click **Add**
 
-![Client Login Verification](https://github.com/21Lalit/Networking-projects/blob/main/AAA-Radius/AAA-Client.png)
+![Client Login Verification](https://github.com/21Lalit/Networking-projects/blob/main/AAA-Radius-Server/AAA-Client.png)
 
 ---
 

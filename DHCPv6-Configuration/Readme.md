@@ -56,6 +56,7 @@ show ipv6 dhcp binding
   
 
 ![AAA RADIUS Network](https://github.com/21Lalit/Networking-projects/blob/main/DHCPv6-Configuration/DHCP-POOL.png)
+
 3. **IPv6 Address Prefix**:
 
    * Prefix: `2001:DB8:1::`

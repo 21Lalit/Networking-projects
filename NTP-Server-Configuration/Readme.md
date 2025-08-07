@@ -58,10 +58,13 @@ show ntp associations           # Checks NTP server link
 show ntp status                 # Displays sync status
 ```
 
-📸 *Sample Output:*
+📸 *NTP Unsynchronized Router*
 
 > ![NTP Unsynchronized Router](./Unsynchronized-Router.png)
 
+📸 *NTP Synchronized Router*
+
+> ![NTP Synchronized Router](https://github.com/21Lalit/Networking-projects/blob/main/NTP-Server-Configuration/Synchronized-Router.png)
 ---
 
 ## 📌 Notes

@@ -55,13 +55,13 @@ show ipv6 dhcp binding
    * Domain Name: `example.com`
   
 
-![AAA RADIUS Network](https://github.com/21Lalit/Networking-projects/blob/main/DHCPv6-Configuration/DHCP-POOL.png)
+![DHCP-POOL](https://github.com/21Lalit/Networking-projects/blob/main/DHCPv6-Configuration/DHCP-POOL.png)
 
 3. **IPv6 Address Prefix**:
 
    * Prefix: `2001:DB8:1::`
    * Prefix Length: `64`
-![AAA RADIUS Network](https://github.com/21Lalit/Networking-projects/blob/main/DHCPv6-Configuration/DHCPv6-Server.png)
+![DHCPv6-Server](https://github.com/21Lalit/Networking-projects/blob/main/DHCPv6-Configuration/DHCPv6-Server.png)
 ---
 
 ## 💻 Client Configuration (PC0)
@@ -73,7 +73,7 @@ show ipv6 dhcp binding
    * Wait for the **"IPv6 request successful"** message
   
 
-![AAA RADIUS Network](https://github.com/21Lalit/Networking-projects/blob/main/DHCPv6-Configuration/DHCPv6-Client.png)
+![DHCPv6-Client](https://github.com/21Lalit/Networking-projects/blob/main/DHCPv6-Configuration/DHCPv6-Client.png)
 
 ---
 

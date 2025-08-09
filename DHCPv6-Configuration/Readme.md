@@ -53,11 +53,15 @@ show ipv6 dhcp binding
    * Pool Name: `test`
    * DNS Server: `2001:4860:4860::8888`
    * Domain Name: `example.com`
+  
+
+![DHCP-POOL](https://github.com/21Lalit/Networking-projects/blob/main/DHCPv6-Configuration/DHCP-POOL.png)
+
 3. **IPv6 Address Prefix**:
 
    * Prefix: `2001:DB8:1::`
    * Prefix Length: `64`
-
+![DHCPv6-Server](https://github.com/21Lalit/Networking-projects/blob/main/DHCPv6-Configuration/DHCPv6-Server.png)
 ---
 
 ## 💻 Client Configuration (PC0)
@@ -67,6 +71,9 @@ show ipv6 dhcp binding
 
    * Select: `Automatic`
    * Wait for the **"IPv6 request successful"** message
+  
+
+![DHCPv6-Client](https://github.com/21Lalit/Networking-projects/blob/main/DHCPv6-Configuration/DHCPv6-Client.png)
 
 ---
 

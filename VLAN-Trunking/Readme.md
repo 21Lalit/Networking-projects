@@ -108,7 +108,9 @@ switchport access vlan <vlan_id>
 * Implement **Port Security** for enhanced control
 
 ---
-
+# Another Example
+![VLAN Trunking Topology](https://github.com/21Lalit/Networking-projects/blob/main/VLAN-Trunking/Another-Example.png)
+---
 > *"A well-segmented network is a well-managed network."*
 
 📡 Keep your network clean, controlled, and secure with VLANs!

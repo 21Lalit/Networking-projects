@@ -43,7 +43,8 @@ EtherChannel combines multiple Ethernet links between devices to act as a single
 * **Simplified Management**.
 
 ---
-
+## Topology
+![EtherChannel-Topology](https://github.com/21Lalit/Networking-projects/blob/main/Etherchannel/EtherChannel-Topology.png)
 ## ⚙️ Switch Configurations
 
 ### 🔧 Switch1 Configuration

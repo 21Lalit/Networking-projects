@@ -17,7 +17,7 @@ This project demonstrates the configuration of a **WPA2-PSK (Wi-Fi Protected Acc
      WRT300N                       Laptop0
 ```
 
-![WPA2-PSK Topology](https://github.com/21Lalit/Networking-projects/blob/main/WPA2-PSK/e15d9846-c9d7-4bcf-9ca4-e722600a44e8.png)
+![WPA2-PSK Topology](https://github.com/21Lalit/Networking-projects/blob/main/WPA2-PSK/WPA2-PSK.png)
 
 ---
 

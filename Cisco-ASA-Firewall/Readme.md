@@ -1,5 +1,3 @@
-Here is the complete `Readme.md` in final GitHub-ready format.
-
 # Cisco ASA Firewall Configuration in Cisco Packet Tracer
 
 "Firewalls do not just block traffic; they enforce trust boundaries."
@@ -179,6 +177,17 @@ show arp
 show running-config
 write memory
 ```
+---
+
+## ARP Verification
+
+The ARP table was checked to verify Layer 2 connectivity between the ASA firewall and the outside network devices.
+
+![ARP Table Verification](https://github.com/21Lalit/Networking-projects/blob/main/Cisco-ASA-Firewall/ARP-Table.png)
+Command used:
+
+```cisco
+show arp
 
 The `show access-list` output confirmed that HTTP traffic was allowed and other traffic was denied using hit counts.
 

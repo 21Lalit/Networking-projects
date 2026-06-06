@@ -186,14 +186,14 @@ The ARP table was checked to verify Layer 2 connectivity between the ASA firewal
 ![ARP Table Verification](https://github.com/21Lalit/Networking-projects/blob/main/Cisco-ASA-Firewall/ARP-Table.png)
 Command used:
 
-```cisco
+```
 show arp
 
 The `show access-list` output confirmed that HTTP traffic was allowed and other traffic was denied using hit counts.
-
+```
 Example final ACL verification:
 
-```cisco
+```
 access-list OUTSIDE-INSIDE extended permit tcp host 203.0.113.10 host 203.0.113.100 eq www
 access-list OUTSIDE-INSIDE extended deny ip any any
 ```

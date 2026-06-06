@@ -1,5 +1,3 @@
-Here is the complete `Readme.md` in final GitHub-ready format.
-
 # Cisco ASA Firewall Configuration in Cisco Packet Tracer
 
 "Firewalls do not just block traffic; they enforce trust boundaries."
